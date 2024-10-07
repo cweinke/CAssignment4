@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Connor\source\repos\CWWAssignment4\CWWAssignment4\main.cpp(17,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Connor\source\repos\CWWAssignment4\CWWAssignment4\main.cpp(68,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CWWAssignment4.vcxproj -> C:\Users\Connor\source\repos\CWWAssignment4\x64\Debug\CWWAssignment4.exe
